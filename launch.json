@@ -1,0 +1,13 @@
+{
+    "configurations": [
+
+
+
+        {
+            "type": "chrome",
+            "name": "http://172.31.211.156:3000",
+            "request": "launch",
+            "url": "http://172.31.211.156:3000"
+        }
+    ]
+}
